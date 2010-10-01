@@ -1,0 +1,1 @@
+@JAVA_RUNTIME@ -Djava.library.path=lib -classpath lib/luajava-1.1.jar org.keplerproject.luajava.Console $*

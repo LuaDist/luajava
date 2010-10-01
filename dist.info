@@ -1,0 +1,14 @@
+--- This file is part of LuaDist project
+
+name = "luajava"
+version = "1.1"
+
+desc = "LuaJava is a scripting tool for Java."
+author = "Thiago Ponte"
+license = "Copyright © 2003-2007 Kepler Project"
+url = "http://www.keplerproject.org/luajava"
+maintainer = "Peter Kapec"
+
+depends = {
+	"lua ~> 5.1"
+}
